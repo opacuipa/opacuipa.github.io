@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opacuipa.github.io/Sex/sitemap_index.txt
+Sitemap: https://opacuipa.github.io/Tpi/sitemap_index.txt
+Sitemap: https://opacuipa.github.io/gLt/sitemap_index.txt
+Sitemap: https://opacuipa.github.io/mJx/sitemap_index.txt
